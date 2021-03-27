@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Success!
 
-You can use the [editor on GitHub](https://github.com/michael-esteban/zoom-extension-hackathon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+...I think
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You have just successfully linked WhateverNameThisWillBe to Zoom!
 
-### Markdown
+![Designathon logo](https://cdn.discordapp.com/icons/823950948921507891/abc5d9e3284713e66f1b069d0c6144bf.webp)
+
+### Usage
+
+WhateverNameThisWillBe is a real-time document scanning extension letting you directly scan and upload documents from your webcam to Zoom Meetings, Zoom Chat and Zoom Phone! 
+
+To use it, simply press a button, hold the document parallel to your camera and wait for the app to take the picture.
+After several basic editing options such as orientation, colouring and document name editing, WhateverNameThisWillBe will automatically send the scan as a PDF via the Zoom chat.
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
